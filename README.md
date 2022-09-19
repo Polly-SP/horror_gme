@@ -1,1 +1,1 @@
-# horror_gme
+# horror_game
